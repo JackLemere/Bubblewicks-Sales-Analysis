@@ -1,6 +1,15 @@
-# Bubblewicks Sales Performance Analysis 2020
+<div align="center">
 
-# Project Background
+![Logo](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-logo.png)
+
+# Bubblewicks 2020 Sales Performance Analysis
+
+</div>
+ 
+<br>
+
+
+## Project Background
 
 Bubblewicks is an online business that sells soap and candle supplies exclusively via the online platform Etsy across North America.
 
@@ -13,7 +22,7 @@ Insights and recommendations are provided on the following key areas:
 - Regional Comparisons: An evaluation of product sales by province/state
 
 
-# Executive Summary
+## Executive Summary
 
 ### Overview of Findings
 
@@ -24,15 +33,14 @@ The interactive Tableau dashboard seen below is available [here](https://public.
 ![Dashboard](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-dashboard.png)
 
 
-
-# Data Structure & Initial Checks
+## Data Structure & Initial Checks
 
 Bubblewicks' main database structure as seen below consists of two tables: SoldOrders2020 and total_items_purchased. SoldOrders2020 includes 74 records each representing a product sale transaction. total_items_purchased contains 71 records each representing a customer order with the quantity of items purchased. Data cleaning was conducted using Excel.
 
 ![ERD](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-erd.png)
 
 
-# Insights Deep Dive
+## Insights Deep Dive
 ### Sales Trends:
 
 - Since the shop opening in February, sales and revenue have been steadily rising which indicates good company growth. Company sales peaked in May with 20 items sold generating $620.10 in revenue.
@@ -71,7 +79,7 @@ Bubblewicks' main database structure as seen below consists of two tables: SoldO
 ![Sales By Region Table](https://github.com/JackLemere/Bubblewicks/blob/main/bubblewicks-states.png)
 
 
-# Recommendations:
+## Recommendations:
 
 Based on the insights and findings above, we would recommend Bubblewicks to consider the following: 
 
@@ -89,7 +97,7 @@ Based on the insights and findings above, we would recommend Bubblewicks to cons
 
 
 
-# Assumptions and Caveats:
+## Assumptions and Caveats:
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
